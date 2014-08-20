@@ -20,7 +20,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tip" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="7wC-SB-tyt">
-                                <rect key="frame" x="24" y="137" width="124" height="30"/>
+                                <rect key="frame" x="24" y="137" width="158" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Palatino-BoldItalic" family="Palatino" pointSize="27"/>
                                 <color key="textColor" red="0.24943264207328958" green="0.25650771351545631" blue="0.26885190217391308" alpha="1" colorSpace="calibratedRGB"/>
